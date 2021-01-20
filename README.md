@@ -12,4 +12,3 @@ python main.py  # CLI mode
 python app.py   # Web mode# 2020-01-01: Project init
 # 2021-01-01: Project init
 # 2021-01-01: Project init
-# 2021-01-01: Project init
