@@ -22,3 +22,4 @@ if __name__ == '__main__':
 # 2021-01-15: CLI setup
 # 2021-06-15: CLI integration
 # 2021-01-15: CLI setup
+# 2021-02-01: Client basics
