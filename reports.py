@@ -10,4 +10,3 @@ def generate_summary():
 # 2021-07-15: Reports module
 # 2021-07-15: Reports module
 # 2021-07-15: Reports module
-# 2021-08-01: Balance calc
