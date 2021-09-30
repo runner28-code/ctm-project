@@ -24,4 +24,3 @@ def init_db():
 # 2021-03-01: Client table
 # 2021-03-01: Client table
 # 2021-03-01: Client table
-# 2021-09-02: Cascade fix
