@@ -18,4 +18,3 @@ def add_client(name, email):
 # 2021-04-15: Client update
 # 2021-04-15: Client update
 # 2021-04-15: Client update
-# 2021-09-15: Client search
