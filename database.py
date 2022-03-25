@@ -24,4 +24,5 @@ def init_db():
 # 2021-03-01: Client table
 # 2021-03-01: Client table
 # 2021-03-01: Client table
-# 2022-03-01: Client table
+# 2022-02-15: DB setup
+# 2022-03-15: Transaction table
