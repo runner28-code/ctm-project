@@ -9,4 +9,3 @@ def add_transaction(client_id, amount, date, description):
 # 2021-05-15: Transaction module
 # 2021-06-01: Transaction list
 # 2022-05-15: Transaction module
-# 2022-08-18: Amount validation
