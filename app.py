@@ -24,4 +24,5 @@ if __name__ == '__main__':
 # 2021-11-16: Web client list
 # 2022-11-15: Web client list
 # 2022-11-16: Web client list
-# 2022-11-15: Web client list
+# 2022-11-01: Flask UI
+# 2022-12-01: Web transaction view
